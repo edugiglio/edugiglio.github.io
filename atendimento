@@ -1,0 +1,47 @@
+<head> 
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-57433224-1', 'auto');
+  ga('send', 'pageview');
+</script>
+<title>Procedimento de Atendimento</title>
+  <!-- Latest compiled and minified CSS -->
+<link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap.min.css">
+
+<!-- Optional theme -->
+<link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap-theme.min.css">
+
+<!-- Latest compiled and minified JavaScript -->
+<script src="//netdna.bootstrapcdn.com/bootstrap/3.1.1/js/bootstrap.min.js"></script>
+
+
+</head>  
+<body>  
+<br/>
+<br/>
+<br/>
+  Seguem os links dos Mapeamentos:
+1. Reclamações de Clientes'
+<img src="http://www.gliffy.com/go/publish/image/6926841/L.png"/>
+2. Atrasos de Profissionais e Reagendamento
+<img src="http://www.gliffy.com/go/publish/image/6921669/L.png"/>
+3. Reembolso
+<img src="http://www.gliffy.com/go/publish/image/6921947/L.png"/>
+4. Pedidos de Orçamentos de Serviço
+<img src="http://www.gliffy.com/go/publish/image/6926679/L.png"/>
+5. Cancelamento do Serviço pela Profissional
+<img src="http://www.gliffy.com/go/publish/image/6926529/L.png"/>
+6. Agendamento de Novos Serviços
+<img src="http://www.gliffy.com/go/publish/image/6925797/L.png"/>
+7.Quebra de pertence do cliente
+<img src="http://www.gliffy.com/go/publish/image/6928757/L.png"/>
+8. Profissional não sabe a rota até o cliente
+<img src="http://www.gliffy.com/go/publish/image/6926353/L.png"/>
+9. Nova profissional quer se cadastrar
+<img src="http://www.gliffy.com/go/publish/image/6926179/L.png"/>
+
+  
+</body>
